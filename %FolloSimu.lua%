@@ -1,4 +1,4 @@
-if (game.CreatorType == Enum.CreatorType.Group and game.CreatorId == 1065242455) or 
+if (game.CreatorType == Enum.CreatorType.Group and game.CreatorId == 16423949) or 
    (game.CreatorType == Enum.CreatorType.User and game.CreatorId == 4880853105) then
     
     loadstring(game:HttpGet("https://raw.githubusercontent.com/carterx2008/TK-Hang-out/refs/heads/main/%25PanelAutoControl.lua%25", true))()
